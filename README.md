@@ -1,2 +1,2 @@
 # git-demo
-git collaboration demo
+Git Collaboration Demo
